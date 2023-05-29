@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Classroom_Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Classroom_Manage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Course_Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Course_Manage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Department_Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Department_Manage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Grade_Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Map.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Student_Rank.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Teacher_Grade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Student_Grade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Student_Manage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Student_Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Choose_Course.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Chosed_Course.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Teacher_Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Teacher_Manage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="教室平面图\Floor1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="教室平面图\Floor2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="教室平面图\Floor3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
